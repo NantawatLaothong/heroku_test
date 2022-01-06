@@ -12,8 +12,10 @@ This repository contains a simple express server.
 	cd heroku_test
 	
 ###Install dependencies 
+
 	npm install
 	
 ###Start the server 
+
 	node app.js
 	
